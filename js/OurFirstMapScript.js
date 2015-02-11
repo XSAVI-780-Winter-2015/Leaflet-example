@@ -57,7 +57,7 @@ function onMapClick(e) {
 }
 
 OurFirstMap.on('click', onMapClick);
-/*
+*/
 
 
 
